@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Agrawal</h1>
 <h3 align="center">A passionate Computer Science student from BITS Pilani- K.K. Birla Goa Campus</h3>
+<img align = "right" alt = "coding" width= "400" src ="![image](https://github.com/yash-agrawal03/yash-agrawal03/assets/77984203/503f0849-09c2-4a8e-8e26-b45b5cb86c39)"
+
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
