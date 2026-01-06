@@ -6,15 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/yashcodess" target="blank"><img src="https://img.shields.io/twitter/follow/yashcodess?logo=twitter&style=for-the-badge" alt="yashcodess" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/yash-agrawal03](https://github.com/yash-agrawal03)
 
 - 💬 Ask me about **Android Development, Data Structures and Algorithms.**
 
 - 📫 How to reach me **yash.agrawal1589@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1i5Xq3B5voFUmCwHaCWp7nta37giI5Xop/view?usp=sharing](https://drive.google.com/file/d/1i5Xq3B5voFUmCwHaCWp7nta37giI5Xop/view?usp=sharing)
 
 - ⚡ Fun fact **I love writing Comedy Sketches**
 
